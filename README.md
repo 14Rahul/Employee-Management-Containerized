@@ -1,6 +1,6 @@
 # Employee Management Containerized
  
- Prerequisites
+## Prerequisites
 1) Install docker
 2) Install mysql-client
 3) install maven java
